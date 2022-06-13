@@ -1,0 +1,113 @@
+*{
+  margin: 0%;
+  padding: 0%;
+  text-align: center;
+}
+body{ 
+  background: linear-gradient(#253d25, #005b00, #007309); 
+}
+header{
+  display: inline;
+}
+.one{
+  font-size: 12px;
+   
+}
+a{
+  margin-right: 7px;
+  }
+a:visited{
+  color: darkred;
+  text-decoration: none; 
+}
+a:hover{
+  color: green;
+  text-decoration: underline; 
+}
+
+hr{
+  width: 100%;
+  border: 1px solid black;
+  margin-bottom: 10px;
+}
+.container{
+  width: 350px;
+  height: 400px;
+  margin: auto;
+  padding: 30px;
+  border: 1px solid black; 
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  background: #fff;      
+   
+}
+.icons{
+  text-align: right;
+  padding: 10px 0 0 0; 
+  margin-right: 10px; 
+  font-size: 15px; 
+  font-weight: 600; 
+}
+.name{
+  color: black;
+  text-transform: bolder; 
+  margin-top: 0px;
+  padding: 30px;
+}
+.two{
+  padding: 10px;
+  margin: 0px;
+  text-align: left;
+  
+}
+three{
+  padding: 0px; 
+  display: flex;  
+}
+input{
+  width: 300px;
+  height: 30px;
+  text-align: left;
+  padding: 2px;
+  border-block: fantasy;
+  border-bottom: not;
+  border: 1px solid black;
+}
+.title{
+  font-weight: 600;
+  text-align: left;  
+}
+.message{
+  font-weight: 600;
+  margin: 0 0 0 -270px; 
+}
+#message{ 
+  width: 300px;
+  height: 150px; 
+  display: flex;
+  margin: 5px 0 0 8px;
+  padding: 5px; 
+  text-align: left;
+  border: 1px solid black;
+  
+  
+}
+.space{
+  width: 180px;
+  padding: 5px;
+  margin: 15px 0 0 20px;
+  background: #005b00;           
+  font-size: 20px;
+  font-weight: 600;
+  font-style: alias;
+  text-align: center;
+}
+.space:hover{
+  background-color: white;       
+}
+footer{
+  font-size: 15px;
+  font: weight; 600;
+  margin: 20px;
+}

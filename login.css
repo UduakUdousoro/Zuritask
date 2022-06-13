@@ -1,0 +1,94 @@
+*{
+  margin: 0%;
+  padding: 0%;
+  text-align: center;
+}
+body{ 
+  background: linear-gradient(#253d25, #005b00, #007309); 
+}
+header{
+  display: inline;
+}
+.one{
+  font-size: 12px;
+   
+}
+a{
+  margin-right: 7px;
+  }
+a:visited{
+  color: black;
+  text-decoration: none; 
+}
+a:hover{
+  color: green;
+  text-decoration: underline; 
+}
+
+hr{
+  width: 100%;
+  border: 1px solid black;
+  margin-bottom: 20px;
+}
+main{
+  width: 350px;
+  height: 350px;
+  margin: auto;
+  padding: 30px;
+  border: 1px solid black; 
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  background: #fff;      
+   
+}
+.one{
+  text-align: right;
+  padding: 10px 0 0 0; 
+  margin-right: 10px; 
+  font-size: 15px; 
+  font-weight: 600; 
+}
+.name{
+  color: black;
+  text-transform: bolder; 
+  margin-top: 0px;
+  padding: 40px;
+}
+#container{
+  display: inline-grid; 
+}
+.label{
+  padding: 10px;
+  margin: 5px;
+  text-align: left;
+}
+.space{
+  width: 300px;
+  height: 30px;
+  text-align: left;
+  padding: 2px;
+  border-block: fantasy;
+  border-bottom: not;
+  border: 1px solid black;
+}
+.five{
+  margin-top: 20px;
+  text-align: left;
+}
+.login{
+  width: 180px;
+  padding: 5px;
+  margin: 50px;
+  background: #005b00;           
+  font-size: 20px;
+  font-style: alias;
+}
+.login:hover{
+  color: #fff;   
+}
+footer{
+  font-size: 15px;
+  font: weight; 600;
+  margin: 20px;
+}
